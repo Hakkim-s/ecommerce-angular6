@@ -1,0 +1,8 @@
+.navbar {
+  top: 0;
+}
+
+  / deep / .dropdown-menu {
+  margin-left: -6rem;
+}
+
